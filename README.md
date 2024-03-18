@@ -5,6 +5,7 @@ I'm a passionate learner with a strong interest in Artificial Intelligence, part
 #Projects (alogwith repository link) :
 
 project1 = Basic and Modern SignUp Page : https://github.com/ankitkmr150802/SignUp-Page  (HTML and CSS)
+
 project2 = Outfit_recommender_system : https://github.com/ankitkmr150802/Outfit_recommender_system (HTML and CSS)
 
 #Connect with Me :
