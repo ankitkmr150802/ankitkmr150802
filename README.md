@@ -1,6 +1,6 @@
 #About Me
 
-I'm a passionate learner with a strong interest in Artificial Intelligence, particularly its potential for creating engaging conversational interfaces. I'm currently honing my skills in Python and exploring the world of Machine Learning.
+I'm a passionate learner with a strong interest in Artificial Intelligence, particularly its potential for creating engaging conversational interfaces. I'm currently honing my skills in Python and Java and exploring the world of Machine Learning.
 
 #Projects (alogwith repository link) :
 
