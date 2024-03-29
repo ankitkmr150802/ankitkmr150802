@@ -5,7 +5,7 @@
 
 ## 👨‍💻  &nbsp;About Me 
 - 🐍♨️ I'm **Python & Java** coder
-- 🌱 I’m currently learning **Machine Learning, Data Structure and Algorithm & Full Stack Web Development**
+- 🌱 I’m currently learning **Machine Learning, Data Structure and Algorithm & Front-end Web Development**
 - 📫 Feel free to contact me : **ankitkmr150802@gmail.com**
 
 
