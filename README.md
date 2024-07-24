@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">Explore my coding journey!</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Explore+my+coding+journey!)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkmr150802&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkmr150802" /> </p>
 
