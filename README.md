@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkmr150802&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkmr150802" /> </p>
 
 ## 👨‍💻  &nbsp;About Me 
-- 🐍♨️ I'm **Python & Java** coder
-- 🌱 I’m currently learning **Machine Learning, Data Structure and Algorithm & Front-End Web Development**
+- 🐍♨️ I'm **Java & Python** coder
+- 🌱 I’m currently learning **Data Structure and Algorithm & Web Development**
 - 📫 Feel free to contact me : **ankitkmr150802@gmail.com**
 
 
