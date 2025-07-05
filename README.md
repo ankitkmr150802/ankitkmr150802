@@ -18,21 +18,27 @@
 
  ## 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-  
-<a href="https://www.linkedin.com/in/ankit150802/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitkmr150802" height="30" width="40" /></a>
-<a href="https://twitter.com/eg_ankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitkmr150802" height="30" width="40" /></a> 
-<a href="https://www.instagram.com/eg.ankit_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankitkmr150802" height="30" width="40" /></a>
-
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/ankit150802/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/eg_ankit" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/eg.ankit_/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
+
+
+
 
  ## 💻 &nbsp;My Coding Profiles
 
 <p align="left">
 
 <!--<a href="https://www.codechef.com/users/itsme_spidey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ankitkmr150802" height="30" width="40" /></a> -->
-<a href="https://leetcode.com/ankitkmr150802/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitkmr150802" height="30" width="40" /></a> <!--<a href="https://www.hackerrank.com/profile/ankitkmr150802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankitkmr150802" height="30" width="40" /></a>-->
+<a href="https://leetcode.com/ankitkmr150802/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitkmr150802" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;<!--<a href="https://www.hackerrank.com/profile/ankitkmr150802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankitkmr150802" height="30" width="40" /></a>-->
 <a href="https://auth.geeksforgeeks.org/user/ankitkmr150802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ankitkmr150802" height="30" width="40" />
 
 </p>
